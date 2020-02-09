@@ -96,6 +96,8 @@ IPv4: 192.168.1.53'''.format('Samsung'))
             time.sleep(0.1)
         cprint('\nMessaged 32 channels. [SUCCESS]', 'green', attrs=['bold'])
         sleep(3)
+        print('Saving collected data...')
+        print('Data added to o2sd24r34xsdaws.onion')
         break
 
 
